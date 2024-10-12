@@ -1,7 +1,7 @@
-arguments=--init-script /Users/tomasjuarez/.local/share/nvim/mason/packages/jdtls/config_mac_arm/org.eclipse.osgi/55/0/.cp/gradle/init/init.gradle
+arguments=--init-script /var/folders/rw/4t6qzybs6d15k4qbzxw1zwl80000gn/T/db3b08fc4a9ef609cb16b96b200fa13e563f396e9bb1ed0905fdab7bc3bc513b.gradle --init-script /var/folders/rw/4t6qzybs6d15k4qbzxw1zwl80000gn/T/52cde0cfcf3e28b8b7510e992210d9614505e0911af0c190bd590d7158574963.gradle
 auto.sync=false
 build.scans.enabled=false
-connection.gradle.distribution=GRADLE_DISTRIBUTION(VERSION(8.1.1))
+connection.gradle.distribution=GRADLE_DISTRIBUTION(VERSION(8.9))
 connection.project.dir=
 eclipse.preferences.version=1
 gradle.user.home=
